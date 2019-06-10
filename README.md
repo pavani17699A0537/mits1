@@ -3,10 +3,12 @@
 ### Front end Nano degree
 ** The students from mits college **
 'jasmine'
-1. puthin
+1. kutty
 2. pavani
-3. muzmil
-- chaitanya
-- chandu
+3. divya
+- rohan
+- nani
 + ganesh
 + vinnu
+_Nandu_
+---------
